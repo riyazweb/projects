@@ -1,4 +1,4 @@
-# More Projects
+# More Projects which i made
 
 **1. Simple Note-Taking Application | [React, Node.js, Firebase, Google Login]**
 
